@@ -35,6 +35,8 @@ menu:
     url:               /resume
   - title:            About
     url:              /about
+  - title:            Support
+    url:              /url
 
 
 accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
