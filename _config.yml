@@ -46,7 +46,7 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-hydejack
-remote_theme: qwtel/hydejack
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
 
